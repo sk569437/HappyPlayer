@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javalayer-1.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/javalayer-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

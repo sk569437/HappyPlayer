@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jmac-1.74">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/jmac-1.74.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
